@@ -69,4 +69,11 @@ html,body{
 }
 @-ms-keyframes love {
   0%{top:110%}
+
+}
+
+@media only screen and (max-width: 600px) {
+ .bg_heart{
+ font-size:21px;
+ }
 }
