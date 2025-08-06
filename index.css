@@ -11,7 +11,7 @@ html,body{
   height:100%;
  overflow:hidden;
   background-image:url("https://w0.peakpx.com/wallpaper/501/382/HD-wallpaper-i-love-you-wala-black-background-love.jpg");
-  background-size:100% 100%;
+
   z-index:-1;
   fony-size:21px;
 }
@@ -89,6 +89,7 @@ html,body{
      font-size:21px;
   }
 }
+
 
 
 
