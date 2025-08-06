@@ -1,6 +1,8 @@
 
 html,body{
   margin:0px;
+  font-size:21px !important;
+  
   height:100%;
 }
 .bg_heart{
@@ -89,6 +91,7 @@ html,body{
      font-size:21px;
   }
 }
+
 
 
 
