@@ -13,7 +13,7 @@ var love = setInterval(function(){
 },500);
 
 var i = 0;
-var txt1 = "Güzel Sevgilim,  <<                Mesafeler ne kadar uzak olursa olsun, seninle geçirdiğim her anın sıcaklığı içimi ısıtmaya yetiyor. <<<                Gözlerinle karşılaşamasam da, sesinle, mesajlarınla, o güzel kalbinle her zaman yanımda olduğunu hissediyorum.!                                                                           >   Seninle konuşurken zamanın nasıl geçtiğini anlamıyorum; her gülüşün, her tatlı sözün kalbimde bir bahar yaratıyor. <<             Uzakta olsak da, seni düşünmek bile yüzümde bir tebessüm oluşturuyor. <<                        Hayallerimiz, planlarımız, birlikte geçireceğimiz o güzel anlar için sabırsızlanıyorum. !                                                     > Mesafeler sadece geçici, ama bizim sevgimiz sonsuz. Seni her şeyden çok seviyorum, canım benim.      <<                                          Bir gün elbet aynı gökyüzünün altında, el ele, tüm bu özlemi unutacağız. O zamana kadar, kalbim hep seninle atıyor. 💞          >                <<<< Seni Çok Seviyorum Güzel Seviyorum ...!";
+var txt1 = "Güzel Sevgilim,  <<                Mesafeler ne kadar uzak olursa olsun, seninle geçirdiğim her anın sıcaklığı içimi ısıtmaya yetiyor. <<<                Gözlerinle karşılaşamasam da, sesinle, mesajlarınla, o güzel kalbinle her zaman yanımda olduğunu hissediyorum.!                                                                           >   Seninle konuşurken zamanın nasıl geçtiğini anlamıyorum; her gülüşün, her tatlı sözün kalbimde bir bahar yaratıyor. <<             Uzakta olsak da, seni düşünmek bile yüzümde bir tebessüm oluşturuyor. <<                        Hayallerimiz, planlarımız, birlikte geçireceğimiz o güzel anlar için sabırsızlanıyorum. !                                                     > Mesafeler sadece geçici, ama bizim sevgimiz sonsuz. Seni her şeyden çok seviyorum, canım benim.      <<                                          Bir gün elbet aynı gökyüzünün altında, el ele, tüm bu özlemi unutacağız. O zamana kadar, kalbim hep seninle atıyor. 💞          >                <<<< Seni Çok Seviyorum Güzel Seviyorum ...! Gökmen N.";
 var speed = 50;
 typeWriter();
 function typeWriter() {
@@ -32,4 +32,5 @@ function typeWriter() {
     i++;
     setTimeout(typeWriter, speed);
   }
+
 }
